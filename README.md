@@ -1,2 +1,2 @@
 # React-app
-Getting my feet wet
+React Training
